@@ -23,3 +23,4 @@
 - 서버 측에서는 브라우저에서 엔진을 추출하여 브라우저 외부에서 실행할 수 있도록 하는 게 목적이었다.
 - 즉, JavaScript 지식을 재사용하되 다른 작업에 JavaScript를 활용하는 것이다.
 - 그래서 어디에서든 Node.js와 JavaScript를 실행할 수 있다.
+<img width="724" alt="스크린샷 2022-06-24 오후 4 26 49" src="https://user-images.githubusercontent.com/75515697/175485200-8200cab3-a2dc-43c4-b2fe-dc82ed4b60bf.png">
