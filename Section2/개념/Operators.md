@@ -1,1 +1,10 @@
-asd
+## Operators
+```js
++ : Add two numbers
+- : Subtract two numbers
+* : Multiply two numbers
+/ : Divide two numbers
+% : Divide two numbers, yield remainder
+** : Exponentiation(e.g. 2**3 = 8)
+= : Assign value to variable
+```
