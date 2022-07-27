@@ -1,13 +1,15 @@
 const defaultResult = 0;
 let currentResult = defaultResult;
 
+// Gets input from input field
 function getUserNumberInput() {
   return parseInt(userInput.value);
 }
 
+// 계산 로그 생성과 작성
 function createAndWriteOutput(operator, resultBeforeCalc, calcNumber) {
   const calcDescription = `${resultBeforeCalc} ${operator} ${calcNumber}`;
-  outputResult(currentResult, calcDescription);
+  outputResult(currentResult, calcDescription); // from vendor file
 }
 
 function add() {
